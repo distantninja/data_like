@@ -1,0 +1,19 @@
+{
+  "name": "data_like",
+  "version": "0.0.1",
+  "description": "A database application library",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/distantninja/data_like.git"
+  },
+  "author": "distantninja",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/distantninja/data_like/issues"
+  },
+  "homepage": "https://github.com/distantninja/data_like#readme"
+}
